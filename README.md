@@ -1,4 +1,4 @@
-# Bouncing Hero
+# BOUNCING HERO
 Official repository for the video game ***Bouncing Hero*** by Avaneesh Prabha and Medhansh Pappula, with uniquely designed characters and arts.
 
 ## About
