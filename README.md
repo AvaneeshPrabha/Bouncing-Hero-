@@ -10,14 +10,14 @@ Take control of a courageous bouncy ball in a action packed roguelike adventure 
 - Background Music credits: [Villamor Music](https://villamor-music.itch.io/adventure-rpg-music-pack) and "Weirdness (30 sec)" by Emanuele Dentoni – via [StoryBoard](Storyboard.com)
 
 ## How to Play
-- ("MOVE LEFT / RIGHT", "[A] / [D] or [LEFT] / [RIGHT]")
-- ("JUMP", "[SPACE] or [W] or [UP]")
-- ("SLO-MO", "[E] (Uses Energy)"),
+- ("MOVE LEFT / RIGHT", "[A] / [D] or [LEFT-ARROW KEY] / [RIGHT-ARROW KEY]")
+- ("JUMP", "[SPACE] or [W] or [UP-ARROW KEY]")
+- ("SLOW-MO", "[E] (Uses Energy)"),
 - ("AIR DASH & SLAM", "In mid-air: Hold [RIGHT-CLICK] & drag toward target, release to launch"),
 - ("SUPER DASH", "Hold air aim for 2 seconds (Unlocked after tutorial)"),
-- ("SHIELD ABILITY", "[2] (Blocks wolf hits for 4 seconds)"),
-- ("GUST PULSE ABILITY", "[3] (Knocks back and damages nearby wolves)"),
-- ("PAUSE", "[P] or Top-Right Button"),
+- ("SHIELD ABILITY", "[Uses 2 Energy Points] (Blocks wolf hits for 4 seconds)"),
+- ("GUST PULSE ABILITY", "[Uses 3 Energy Points] (Knocks back and damages nearby wolves)"),
+- ("PAUSE", "[P] or Top-Right Pause Button"),
 
 
 
