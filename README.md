@@ -5,7 +5,7 @@ Official repository for the video game ***Bouncing Hero*** by Avaneesh Prabha an
 Take control of a courageous bouncy ball in a action packed roguelike adventure where every ricochet and slam is an attack against invading foes. Stack powerful spells and abilities by beating bosses and mobs that help to smash through waves of enemies and protect the kingdom's bouncy castle from total takeover!
 
 ## Special Thanks 
-- We made this video game by taking inspiration from [Red Ball Adventure](https://play.google.com/store/apps/details id=com.herocraft.game.free.red.hero.ball.bounce.jump&hl=en_US)
+- We made this video game by taking inspiration from [Red Ball Adventure](https://play.google.com/store/apps/details?id=com.herocraft.game.free.red.hero.ball.bounce.jump&hl=en_US)
 - Special Thanks to [@make8bitart](https://make8bitart.com/) and [itch.io](https://itch.io/) for visual assets and graphics
 - Background Music credits: [Villamor Music](https://villamor-music.itch.io/adventure-rpg-music-pack) and "Weirdness (30 sec)" by Emanuele Dentoni – via [StoryBoard](Storyboard.com)
 
